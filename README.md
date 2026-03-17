@@ -110,7 +110,5 @@ Then create a new VM in VirtualBox and attach `os.vdi` as a virtual hard disk. (
 |🟨 **YELLOW** | Disk Error | `boot.asm` |
 
 <div align="center">
-Made with curiosity
-
 ---
 </div>
